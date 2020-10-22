@@ -1,0 +1,1 @@
+{"version":3,"sources":["Article.css","App.scss"],"names":[],"mappings":"AAAA,QACE,yBACF,CCFA,KACE,iBAAkB,CAClB,eAAgB,CAChB,qCAAwC","file":"main.47ced7e6.chunk.css","sourcesContent":[".header {\r\n  text-decoration: underline;\r\n}\r\n","body {\n  text-align: center;\n  padding: 0 100px;\n  font-family: \"Trebuchet MS\" , sans-serif;\n}\n"]}
